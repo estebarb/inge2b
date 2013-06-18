@@ -1,0 +1,2 @@
+serviceClass: tk.dotsboxes.planb.client.GreetingService
+path: 67B8BC1FDBBF4580E22999A5201B75F8.gwt.rpc
